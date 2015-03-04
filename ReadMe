@@ -1,0 +1,16 @@
+Executer le makefile 
+
+
+Echec CHEVESSIER Pierrick
+-initialise et les joueurs, affiche l'echiquier
+-pieces :  tour, fou, cavalier, reine, roi , pion : fait 
+-mouvement valide des pieces: tour, fou, cavalier, reine, roi , pion  fait 
+-fonction deplacer piece faites
+-fonction pour manger les pieces faites
+-Tour des joueur fait 
+-Possibilité de jouer  fait
+
+
+-Mise en echec, non fait 
+-fin de partie, non fait
+-pas possible de retour en arriére si mauvaise piece selectionné 
